@@ -23,6 +23,6 @@ snowflake.node = 0
 
 ### Test
 ```
-has tested on php7
+has tested on php 5 6 7
 
 ```
